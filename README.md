@@ -36,7 +36,6 @@ desde GitHub para que yo lo apruebe.
 
 Para actualizar su rama LOCAL con la REMOTA y descargar los cambios que entre ustedes vayan haciendo deben usar el comando:
  *  **git fetch** 
-   después el comando:
    *  **git pull** 
 
 # Cualquier duda o error avisenme por whats
